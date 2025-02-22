@@ -5,7 +5,7 @@ Morse code is a telecommunications method which encodes text characters as stand
 
 This Python project converts plain text into Morse code. It's a simple and educational tool that demonstrates string manipulation and basic encoding concepts. Whether you're learning about Morse code or just having fun with text conversion, this tool makes it easy!
 
-International Morse code encodes the 26 basic Latin letters a to z, one accented Latin letter (é), the Arabic numerals, and a small set of punctuation and procedural signals (prosigns). There is no distinction between upper and lower case letters. Each Morse code symbol is formed by a sequence of dots and dashes. The dot duration can vary for signal clarity and operator skill, but for any one message, once established it is the basic unit of time measurement in Morse code. 
+International Morse code encodes the 26 basic Latin letters a to z, one accented Latin letter (é), the Arabic numerals, and a small set of punctuation and procedural signals (prosigns). There is no distinction between upper and lower case letters. Each Morse code symbol is formed by a sequence of dots and dashes. The dot duration can vary for signal clarity and operator skill, but for any one message, once established it is the basic unit of time measurement in Morse code.
 
 The definitive references for International Morse code https://www.itu.int/dms_pubrec/itu-r/rec/m/R-REC-M.1677-1-200910-I!!PDF-E.pdf
 
@@ -22,7 +22,7 @@ The definitive references for International Morse code https://www.itu.int/dms_p
 * Converts English text into Morse code.
 * Supports letters A-Z (case insensitive), numbers 0-9, and basic punctuation.
 * Handles spaces between words appropriately in the output.
-  
+
 ## Demo
 Include a screenshot or GIF showing your program in action.
 
@@ -30,7 +30,7 @@ Include a screenshot or GIF showing your program in action.
 #### Prerequisites
 * Python 3.x installed on your machine.
 * (Optional) A virtual environment for isolated dependencies.
-  
+
 ### Steps
 1. Clone this repository:
 ```
