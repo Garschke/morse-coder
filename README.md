@@ -60,16 +60,7 @@ Enter text to convert: Hello World
 ```
 
 ### Morse Code Reference
-|Character |Morse Code
-|:---:|:---:|
-| A	| .- |
-| B	| -... |
-| C	| -.-. |
-| ... | ... |
-| 0	| ----- |
-| 1	| .---- |
-| ...	| ... |
-
+![morse code character map table](src/International_morse_code.png)
 
 ## Roadmap
 * [ ] Add support for decoding Morse code back to text.
