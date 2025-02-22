@@ -24,7 +24,8 @@ The definitive references for International Morse code https://www.itu.int/dms_p
 * Handles spaces between words appropriately in the output.
 
 ## Demo
-Include a screenshot or GIF showing your program in action.
+Screenshot showing program in action.
+![Screenshot of code running](src/morse-coder_screenshot.png)
 
 ## Installation
 #### Prerequisites
