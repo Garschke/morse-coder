@@ -178,4 +178,4 @@ pip-cache/  # Added by me
 .DS_Store   # Added by me
 
 # Ignore all .vscode files
-.vscode/    # Added by me   # Added by me
+.vscode/    # Added by me
