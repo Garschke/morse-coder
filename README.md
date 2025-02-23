@@ -35,8 +35,8 @@ Screenshot showing program in action.
 ### Steps
 1. Clone this repository:
 ```
-git clone https://github.com/Garschke/text-to-morse-code.git
-cd text-to-morse-code
+git clone https://github.com/Garschke/morse-coder.git
+cd morse-coder
 ```
 2. (Optional) Create and activate a virtual environment:
 ```
