@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ### Usage
 Run the converter:
 ```
-python main.py
+python3 main.py
 ```
 Enter the text you want to convert when prompted.
 View the Morse code output.
