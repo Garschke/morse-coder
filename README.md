@@ -56,7 +56,7 @@ Enter the text you want to convert when prompted.
 View the Morse code output.
 Example:
 ```
-Enter text to convert: Hello World
+Enter text to be converted: Hello World
 .... . .-.. .-.. --- / .-- --- .-. .-.. -..
 ```
 
@@ -76,9 +76,9 @@ Contributions are welcome!
 2. Commit your changes: git commit -m 'Add new feature'
 3. Push to the branch: git push origin feature/NewFeature
 4. Open a pull request.
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-Inspiration from traditional Morse code learning tools.
-Wikipedia for the Morse code reference.
+Inspiration from Morse code on-line learning tools and Wikipedia for the Morse code reference.
